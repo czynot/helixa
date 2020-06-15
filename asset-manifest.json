@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.126c14d6.chunk.css",
-    "main.js": "/my-app/static/js/main.68d85ff0.chunk.js",
-    "main.js.map": "/my-app/static/js/main.68d85ff0.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.e9513de8.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.e9513de8.js.map",
-    "static/js/2.3183a72a.chunk.js": "/my-app/static/js/2.3183a72a.chunk.js",
-    "static/js/2.3183a72a.chunk.js.map": "/my-app/static/js/2.3183a72a.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.4a4ae34a5faad645d1db142e03a3346d.js": "/my-app/precache-manifest.4a4ae34a5faad645d1db142e03a3346d.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.126c14d6.chunk.css.map": "/my-app/static/css/main.126c14d6.chunk.css.map",
-    "static/js/2.3183a72a.chunk.js.LICENSE.txt": "/my-app/static/js/2.3183a72a.chunk.js.LICENSE.txt",
-    "static/media/landing-bg.jpg": "/my-app/static/media/landing-bg.4ef3f899.jpg",
-    "static/media/parth.jpg": "/my-app/static/media/parth.c57ef0fc.jpg",
-    "static/media/peeyush.png": "/my-app/static/media/peeyush.7ec1f040.png"
+    "main.css": "/helixa/static/css/main.126c14d6.chunk.css",
+    "main.js": "/helixa/static/js/main.06fdaf70.chunk.js",
+    "main.js.map": "/helixa/static/js/main.06fdaf70.chunk.js.map",
+    "runtime-main.js": "/helixa/static/js/runtime-main.7f05b5cc.js",
+    "runtime-main.js.map": "/helixa/static/js/runtime-main.7f05b5cc.js.map",
+    "static/js/2.08ba8f9b.chunk.js": "/helixa/static/js/2.08ba8f9b.chunk.js",
+    "static/js/2.08ba8f9b.chunk.js.map": "/helixa/static/js/2.08ba8f9b.chunk.js.map",
+    "index.html": "/helixa/index.html",
+    "precache-manifest.a7bbd92819a92003a859019d1da4dc1f.js": "/helixa/precache-manifest.a7bbd92819a92003a859019d1da4dc1f.js",
+    "service-worker.js": "/helixa/service-worker.js",
+    "static/css/main.126c14d6.chunk.css.map": "/helixa/static/css/main.126c14d6.chunk.css.map",
+    "static/js/2.08ba8f9b.chunk.js.LICENSE.txt": "/helixa/static/js/2.08ba8f9b.chunk.js.LICENSE.txt",
+    "static/media/landing-bg.jpg": "/helixa/static/media/landing-bg.4ef3f899.jpg",
+    "static/media/parth.jpg": "/helixa/static/media/parth.c57ef0fc.jpg",
+    "static/media/peeyush.png": "/helixa/static/media/peeyush.7ec1f040.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9513de8.js",
-    "static/js/2.3183a72a.chunk.js",
+    "static/js/runtime-main.7f05b5cc.js",
+    "static/js/2.08ba8f9b.chunk.js",
     "static/css/main.126c14d6.chunk.css",
-    "static/js/main.68d85ff0.chunk.js"
+    "static/js/main.06fdaf70.chunk.js"
   ]
 }
